@@ -1,0 +1,1 @@
+<footer class="page-footer">© 2018 Copyright</footer>
